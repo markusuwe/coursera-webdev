@@ -4,3 +4,12 @@ body {
     background-color: #ffd700;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+    font-size: 16pt;
+    font-weight: bold;
+    t
+}
