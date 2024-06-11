@@ -5,11 +5,8 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#header-nav {
+#navbar-brand {
     background-color: #f6b319;
     border-radius: 0;
     border: 0;
-    font-size: 16pt;
-    font-weight: bold;
-    t
 }
