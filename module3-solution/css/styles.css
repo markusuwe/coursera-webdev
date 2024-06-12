@@ -10,3 +10,8 @@ body {
     border-radius: 0;
     border: 0;
 }
+
+#navbarTogglerDemo02 {
+    text-align: center;
+    background-color: #aa3333;
+}
