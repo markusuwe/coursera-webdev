@@ -5,6 +5,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h1{
+    text-align: center;
+}
+
 #header-nav {
     background-color: #f6b319;
     border-radius: 0;
